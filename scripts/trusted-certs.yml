@@ -1,4 +1,4 @@
-gwname.yoursubdomain.layer7.broadcom.com.client:
+gw_test.client:
   verifyHostname: false
   trustedForSsl: true
   trustedAsSamlAttestingEntity: true
