@@ -28,7 +28,7 @@ spec:
     replicaCount: 1
     container:
       image: docker-cicd.day.apim.ca.com/repository/docker-hosted/gateway      # Repository name, e.g docker.cluster1.example.com/repository/docker-hosted/gateway
-      tag: '1'                                      # Image tag version, e.g 1.0
+      tag: '2'                                      # Image tag version, e.g 1.0
     imageCredentials:
       name: "gateway-dev"                               # Image credential name, e.g gateway.name-example01
       registry: "docker-cicd.day.apim.ca.com"      # Registry name, e.g docker.cluster1.example.com
